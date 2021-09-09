@@ -1,8 +1,8 @@
 # Set a plain language title for the site.
-title: USWDS Boilerplate
+title: USWDS Design Tokens Guide
 
 # Write a short description for the site. This is used for "meta description."
-description: A starting point for publishing a site using Jekyll, GitHub Pages, and a hosted version of the U.S. Web Design System
+description: Guidance on how designers can progressively understand and apply the use of design tokens in their work
 
 # Set the language for the site. Used for "html lang." Default is English.
 lang: en
@@ -14,7 +14,7 @@ ga: UA-XXXXX-Y
 github: [metadata]
 
 # Enable for live hosting on GitHub Pages
-baseurl: /uswds-boilerplate
+baseurl: /uswds-design-tokens-guide
 
 # Remove generation of additional style.css
 theme: null
