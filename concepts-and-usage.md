@@ -2,6 +2,11 @@
 layout: default
 title: Concepts & Usage
 permalink: /concepts-and-usage/
+sidenav:
+    - title: Concept 1
+      url: "#concept-1"
+    - title: Concept 2
+      url: "#concept-2"
 ---
 # {{ page.title }}
 

@@ -1,0 +1,9 @@
+<nav aria-label="Secondary navigation">
+    <ul class="usa-sidenav">
+        {% for item in page.sidenav %}
+        <li class="usa-sidenav__item">
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>

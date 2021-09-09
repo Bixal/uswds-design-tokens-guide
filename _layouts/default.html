@@ -16,7 +16,16 @@
   {% include header-extended.html %}
   <main id="main-content">
     <div class="grid-container">
-      {{ content }}
+      <div class="grid-row grid-gap">
+        {% if page.sidenav %}
+        <div class="tablet:grid-col-3 padding-top-4">
+          {% include side-navigation.html %}
+        </div>
+        {% endif %}
+        <div class="grid-col-auto">
+          {{ content }}
+        </div>
+      </div>
     </div>
   </main>
   
