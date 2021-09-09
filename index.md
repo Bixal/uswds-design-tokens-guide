@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# {{ site.title }}
+# Designing with tokens in USWDS
 
 {{ site.description }}
 
