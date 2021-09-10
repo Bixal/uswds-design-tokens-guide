@@ -10,6 +10,8 @@ sidenav:
 ---
 # {{ page.title }}
 
+{{ page.url }}
+
 ## Benefit 1
 
 - item
@@ -17,6 +19,30 @@ sidenav:
 - item
 
 ## Benefit 2
+
+- item
+- item
+- item
+
+## Benefit 3
+
+- item
+- item
+- item
+
+## Benefit 4
+
+- item
+- item
+- item
+
+## Benefit 5
+
+- item
+- item
+- item
+
+## Benefit 6
 
 - item
 - item
