@@ -18,3 +18,10 @@ baseurl: /uswds-design-tokens-guide
 
 # Remove generation of additional style.css
 theme: null
+
+# Global content
+logo: assets/img/bixal-logo-full.svg
+logo-alt-text: "The Bixal logotype is cleancut and powerful."
+tel: "+17036345701"
+tel-display: "+1 703 634 5701"
+email: info@bixal.com
