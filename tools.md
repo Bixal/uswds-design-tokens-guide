@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Tools
+title: Use the tools
+nav: Tools
 permalink: /tools/
 sidenav:
     - title: Applications 1
