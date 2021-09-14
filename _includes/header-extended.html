@@ -24,7 +24,7 @@
         </li>
         {% else %}
         <li class="usa-nav__primary-item">
-            <a href="{{ site.baseurl }}{{ item.url }}" class="usa-nav__link{% if item.title == page.title %} usa-current{% endif %}">
+            <a href="{{ site.baseurl }}{{ item.url }}" class="usa-nav__link{% if item.title == page.nav %} usa-current{% endif %}">
               <span>{{ item.title }}</span>
             </a>
         </li>
