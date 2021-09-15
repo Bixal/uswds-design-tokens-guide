@@ -14,3 +14,9 @@ h2, h3, h4, h5, h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
+
+code {
+  background-color: #f0f0f0;
+  padding: .125em .25em .125em .25em;
+  border-radius: .25em;
+}

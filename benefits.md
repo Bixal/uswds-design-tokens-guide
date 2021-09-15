@@ -1,28 +1,41 @@
 ---
 layout: default
-title: Benefits
+title: Understand the benefits
+nav: Benefits
 permalink: /benefits/
 sidenav:
-    - title: Introducing design tokens
-      url: "#introducing-design-tokens"
-    - title: Keys and values
-      url: "#keys-and-values"
+    - title: Section one
+      url: "#section-one"
+    - title: Section two
+      url: "#section-two"
+    - title: Section three
+      url: "#section-three"
+    - title: Section four
+      url: "#section-four"
 ---
 # {{ page.title }}
 
-USWDS visual design is based on consistent palettes of typography, spacing units, color, and other discrete elements of style we call design tokens.
-{: .usa-intro}
+## Focus on the important stuff
 
-## Introducing design tokens
+- By using the Design System and the "smart defaults" that are baked in as design tokens, you don't have to create and define everything from scratch.
+- Building on this existing foundation, you can think more about what the unique needs of the project are and how you can bring out the identity of the client in the design.
 
-Anything we see on a website is built from elements of style: elements like color, spacing, typography, line height, and opacity. The CSS rules associated with these elements can accept a broad continuum of values — in the case of color, there are over 16 million separate colors in the RGB color space. Font size, line height, spacing, and others can accept a similarly wide range of values.
+## Adopt a responsive-first mindset
 
-This degree of choice can slow down design work and make communication between designer and developer unnecessarily granular. USWDS seeks to maximize design efficiency and improve communication with design tokens: the discrete palettes of values from which we base all our visual design.
+- The Design System takes a mobile-first approach, but we obviously have to consider more contexts.
+- By considering design tokens in their various screen size breakpoint contexts, you can be more proactive about considering the user experience at any screen size.
+- When you're able to bring this design work into the browser, it's even more powerful tool for responsive design since it answers many questions that not feasible or possible in design tools.
 
-Design tokens are a limited set of discrete options, just like a scale of musical notes is drawn from the spectrum of all possible frequencies. Or like the presets on a car radio — not every option, just a specific selection.
+## Speak a shared language with developers
 
-## Keys and values
+- This is not about designers learning to code, or developers learning to design for that matter.
+- Using design tokens helps both designers and developers feel comfortable that they're talking about the same thing.
+- The Design System has its own lexicon; trying to use it this knowledge is like trying to navigate a foreign city where you don't know the language.
+- Using the language of design tokens helps designers better communicate their intent and raise their expectations for the level of implementation quality.
 
-You can think of a design token as a key that unlocks a specific value. Often, the specific value is less important than its effect. Each token is a quoted string or, with only the exceptions of 1px and 2px, a unitless number — and the mechanism by which the final display value is unlocked is a function, mixin, or utility class.
+## Make decisions easier and more consistent
 
-We can’t include tokens directly in our Sass, like max-width: 1, rather we use a helper function like max-width: measure(1) or a mixin like @include u-measure(1). All USWDS design tokens have helper mixins and functions to use them in component Sass.
+- One you have made foundational decisions about the design language of your project (typography, color, spacing, etc.), design tokens provide useful constraints for subsequent decisions.
+- Instead of leaving every screen or design element open to a universe of options, you can start with a smaller collection that will make the design feel more cohesive.
+- By working from that collection, there is less opportunity to make accidental mistakes of inconsistency.
+- While designing with tokens makes things easier, you always have the option to diverage when necessary to achieve a particular effect.
