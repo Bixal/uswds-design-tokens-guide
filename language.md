@@ -62,6 +62,8 @@ From [USWDS](https://designsystem.digital.gov/design-tokens/):
   - Responsive variants can also be applied to spacing tokens.
 - Familiarizing yourself with the multiple of width, height, maring, and padding utility classes can be very helpful when it comes to setting expectations and ensuring quality of your design in the broswer.
 
+{% include resources-layout-grid.html %}
+
 ## Other styling and utilities
 
 - There are a variety of other tokens:
