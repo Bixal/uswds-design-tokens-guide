@@ -1,9 +1,6 @@
-body * {
-  font-family: "Public Sans Web", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
-}
-
 body {
   font-size: 1.125rem;
+  font-variant-numeric: oldstyle-nums;
 }
 
 p, li, .usa-intro {
@@ -19,4 +16,36 @@ code {
   background-color: #f0f0f0;
   padding: .125em .25em .125em .25em;
   border-radius: .25em;
+}
+
+.usa-nav .usa-accordion {
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.usa-header--extended .usa-logo {
+  max-width: inherit;
+}
+
+.usa-header--extended .usa-nav__primary-item>.usa-current, .usa-header--extended .usa-nav__primary-item>.usa-nav__link:hover {
+  color: var(--bixal-navy);
+}
+
+.usa-header--extended .usa-nav__primary-item>.usa-current::after, .usa-header--extended .usa-nav__primary-item>.usa-nav__link:hover::after {
+  background-color: var(--bixal-orange);
+}
+
+.usa-nav__primary>.usa-nav__primary-item>a:hover {
+  color: var(--bixal-navy);
+}
+
+.usa-header--extended {
+  background-color: var(--bixal-navy);
+}
+
+.usa-nav {
+  background-color: white;
+}
+
+.usa-logo a {
+  color: var(--bixal-orange);
 }
