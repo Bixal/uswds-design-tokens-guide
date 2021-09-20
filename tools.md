@@ -52,7 +52,7 @@ Duplicate the [USWDS component library](https://www.figma.com/community/file/817
 #### Looking for more information on the plugin? ####
 Check out this [video tutorial](https://youtu.be/Ka1I5TphDb0). 
 
-## Other Figma plug-ins
+#### Other Figma plug-ins ####
 
 - **Lorem ipsum**: generates filler text for text layers
 - **Stark**: accessibility checker
