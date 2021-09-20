@@ -10,8 +10,10 @@ sidenav:
       url: "#concept-2"
 ---
 # {{ page.title }}
+{: .bixal-font-serif}
 
 ## What is a token?
+{: .bixal-font-serif}
 
 From [USWDS](https://designsystem.digital.gov/design-tokens/):
 
