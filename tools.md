@@ -15,9 +15,12 @@ sidenav:
 
 ## Figma tokens plug-in
 
+#### What is Figma Tokens? ####
 - item
 - item
-- item
+
+#### Download the Plugin ####
+[Download](https://docs.tokens.studio/) the plugin to Figma to begin using. 
 
 ## Other Figma plug-ins
 
