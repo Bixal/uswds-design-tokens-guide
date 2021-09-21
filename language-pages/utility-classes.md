@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Learn the language
+title: Utility classes
 nav: Language
-permalink: /language/
+permalink: /utility-classes/
 sidenav:
     - title: What is a token?
       url: "what-is-a-token"
@@ -23,3 +23,7 @@ sidenav:
 ---
 # {{ page.title }}
 {: .bixal-font-serif}
+
+- Utility classes are how the Design System translates between the language of design tokens and the browser.
+- For example, `base-dark` is defined in the Design System, but applying the CSS class of `text-base-dark` or `border-base-dark` is how you apply that color token to an element on a web page.
+- It's helpful to be aware of utility classes and what they offer because you can reference them in your design files or documentation to make your intent clear to developers.

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Learn the language
+title: Typesetting
 nav: Language
-permalink: /language/
+permalink: /typesetting/
 sidenav:
     - title: What is a token?
       url: "what-is-a-token"
@@ -23,3 +23,7 @@ sidenav:
 ---
 # {{ page.title }}
 {: .bixal-font-serif}
+
+- Understanding font normalization and how it affects typesetting
+- Defining type styles using font-family, font-size, and line-height
+- Other type considerations: weight, letterspacing, and measure (line-length)
