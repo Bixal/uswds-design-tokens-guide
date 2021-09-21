@@ -58,16 +58,7 @@ After you see the tokens populate, assign the layers tokens. Right click on the 
 Use math to scale your tokens instead of keeping them static. This can support the overall scaling of an application and all it's components. Instead of assigning a space token a specfic value, scale your tokens by referencing a base token. Learn more [here](https://docs.tokens.studio/tokens/using-math). 
 
 ### Looking for more information on the plugin? 
-Check out this [video tutorial](https://youtu.be/Ka1I5TphDb0) or this [guide](https://docs.tokens.studio/) to learn more. 
-
-## Other Figma plug-ins 
-
-- **Lorem ipsum**: generates filler text for text layers
-- **Stark**: accessibility checker
-- **Unsplash**: free, high-quality photos
-- **Able**: another accessibility plugin to check contrast
-- **Rename It**: allows you to batch rename layers and frames to keep your files organized
-
+Check out this video tutorial, [Design Tokens in Figma: How to get started, today](https://youtu.be/Ka1I5TphDb0) or this guide, [Figma Tokens](https://docs.tokens.studio/) to learn more. 
 
 ## USWDS Boilerplate on CodePen
 
