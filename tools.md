@@ -30,8 +30,12 @@ If you're working with an existing design system and you've already defined font
 
 - If your developer is already using tokens, you can use the JSON editor in the tokens plugin to import and begin designing from what they already have. 
 
-![json editor in plugin]({{ site.baseurl }}/assets/img/json-view.png)
+![json view]({{ site.baseurl }}/assets/img/json-view.png)
 
+
+<div style="center">
+<img href="assets/img/json-view.png">
+</div>
 
 ### Some Considerations
 - While this plugin can work magic in building collaboration between design and development, it does have some glitches. Sometimes editing solely with the tokens does not work as expected. 
