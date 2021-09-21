@@ -52,10 +52,13 @@ You may need to refresh Figma in order to see the plugin.
 Once duplicated, this file is yours. Duplicating a Figma file is essentially like downloading it for your own use and any changes will not affect the original file. 
 
 3. **Import tokens using the Figma Tokens plugin**<br/> 
-After you see the tokens populate, assign your layers tokens and see how you can edit your design by changing the values of the tokens. 
+After you see the tokens populate, assign the layers tokens. Right click on the token in the Figma Token window and select 'edit' to change the names and/or values of the tokens. Play with changing their values to edit the components or layers they're associated with. 
+
+4. **Level up**<br/>
+Use math to scale your tokens instead of keeping them static. This can support the overall scaling of an application and all it's components. Instead of assigning a space token a specfic value, scale your tokens by referencing a base token. Learn more [here](https://docs.tokens.studio/tokens/using-math). 
 
 ### Looking for more information on the plugin? 
-Check out this [video tutorial](https://youtu.be/Ka1I5TphDb0). 
+Check out this [video tutorial](https://youtu.be/Ka1I5TphDb0) or this [guide](https://docs.tokens.studio/) to learn more. 
 
 ## Other Figma plug-ins 
 
