@@ -24,11 +24,11 @@ The Figma Tokens plugin allows you to integrate tokens into your designs in Figm
 If you're working with an existing design system and you've already defined font styles, colors, spacing, etc. in Figma, then use the import feature to generate tokens based on those existing styles. 
 - This can be the easiest way to start using tokens because the plugin will auto-generate the tokens based on what you have in your system, instead of starting from nothing. 
 
-![import button on tokens plugin]({{ site.baseurl }}/assets/img/import-styles.jpeg)
+![import button on tokens plugin]({{ site.baseurl }}/assets/img/import-styles.jpeg#center)
 
 - Figma Tokens will automatically name your tokens after importing existing styles. Work with your developer to implement [USWDS](https://designsystem.digital.gov/design-tokens/) naming conventions that will help properly scale your design system for further iterations. 
 
-- If your developer is already using tokens, you can use the JSON editor in the tokens plugin to import and begin designing from what they already have. 
+- If your developer is already using tokens, you can use the JSON editor in the tokens plugin to import their tokens and begin designing from there. 
 
 ![import button on tokens plugin]({{ site.baseurl }}/assets/img/json-view.png#center)
 
@@ -54,7 +54,7 @@ Once duplicated, this file is yours. Duplicating a Figma file is essentially lik
 After you see the tokens populate, assign the layers tokens. Right click on the token in the Figma Token window and select 'edit' to change the names and/or values of the tokens. Play with changing their values to edit the components or layers they're associated with. 
 
 4. **Level up**<br/>
-Use math to scale your tokens instead of keeping them static. This can support the overall scaling of an application and all it's components. Instead of assigning a space token a specfic value, scale your tokens by referencing a base token. Learn more [here](https://docs.tokens.studio/tokens/using-math). 
+Use math to scale your tokens instead of keeping them static. This can support the overall scaling of your design and all it's components. Instead of assigning a space token a specfic value, scale your tokens by referencing a base token. Learn more [here](https://docs.tokens.studio/tokens/using-math). 
 
 ### Looking for more information on the plugin? 
 Check out this video tutorial, [Design Tokens in Figma: How to get started, today](https://youtu.be/Ka1I5TphDb0) or this guide, [Figma Tokens](https://docs.tokens.studio/) to learn more. 
