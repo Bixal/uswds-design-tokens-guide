@@ -1,8 +1,8 @@
 <nav aria-label="Secondary navigation">
     <ul class="usa-sidenav">
-        {% for item in page.sidenav %}
+        {% for item in site.data[include.data-collection-name] %}
         <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a>
+            <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
         </li>
         {% endfor %}
     </ul>

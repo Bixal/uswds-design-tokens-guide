@@ -22,7 +22,7 @@
       <div class="grid-row grid-gap">
         {% if page.sidenav %}
         <div class="tablet:grid-col-3 padding-top-4 order-2">
-          {% include side-navigation.html %}
+          {% include side-navigation.html data-collection-name=page.sidenav %}
         </div>
         {% endif %}
         <div class="grid-col-fill">
