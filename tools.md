@@ -26,13 +26,14 @@ If you're working with an existing design system and you've already defined font
 
 ![import button on tokens plugin]({{ site.baseurl }}/assets/img/import-styles.jpeg)
 
-- After importing existing styles to create tokens, you can adjust the token names with your developer and come up with the naming conventions that make the most senese for you.
+- Figma Tokens will automatically name your tokens after importing existing styles. Work with your developer to implement [USWDS](https://designsystem.digital.gov/design-tokens/) naming conventions that will help properly scale your design system for further iterations. 
 
 - If your developer is already using tokens, you can use the JSON editor in the tokens plugin to import and begin designing from what they already have. 
-
+<p align="center">
 ![json editor in plugin]({{ site.baseurl }}/assets/img/json-view.png)
+</p>
 
-## Some Considerations
+### Some Considerations
 - While this plugin can work magic in building collaboration between design and development, it does have some glitches. Sometimes editing solely with the tokens does not work as expected. 
 
 - Ideally, after the tokens are created, you can assign your layers tokens and control layer appearance by changing the tokens. 
@@ -43,13 +44,17 @@ If you're working with an existing design system and you've already defined font
 
 - Another consideration is the tokens are **not** connected to your saved styles in Figma. Therefore, if you want to continue to use your saved styles they must be updated separately each time you update your tokens, or vice versa. Alternatively, you may choose to only use the Figma Tokens plugin as your source of truth instead of balancing both the tokens and styles. If that is the case, then you only need to rely on the tokens and updates made there. 
 
-## Download the Plugin 
-[Download](https://docs.tokens.studio/) the plugin. You may need to refresh Figma in order to see the plugin.  
+## Try it out
+1. **[Download](https://docs.tokens.studio/) the plugin**<br/> 
+You may need to refresh Figma in order to see the plugin.  
 
-## Try it out 
-Duplicate the [USWDS component library](https://www.figma.com/community/file/817531077036545462) and try importing tokens with the Figma Token plugin. After you see the tokens populate, assign your layers tokens and see how you can edit your design by changing the values of the tokens. 
+2. **Duplicate the [USWDS](https://www.figma.com/community/file/817531077036545462) component library**<br/>
+Once duplicated, this file is yours. Duplicating a Figma file is essentially like downloading it for your own use and any changes will not affect the original file. 
 
-## Looking for more information on the plugin? 
+3. **Import tokens using the Figma Tokens plugin**<br/> 
+After you see the tokens populate, assign your layers tokens and see how you can edit your design by changing the values of the tokens. 
+
+### Looking for more information on the plugin? 
 Check out this [video tutorial](https://youtu.be/Ka1I5TphDb0). 
 
 ## Other Figma plug-ins 
