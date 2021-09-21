@@ -29,9 +29,9 @@ If you're working with an existing design system and you've already defined font
 - Figma Tokens will automatically name your tokens after importing existing styles. Work with your developer to implement [USWDS](https://designsystem.digital.gov/design-tokens/) naming conventions that will help properly scale your design system for further iterations. 
 
 - If your developer is already using tokens, you can use the JSON editor in the tokens plugin to import and begin designing from what they already have. 
-<p align="center">
+
 ![json editor in plugin]({{ site.baseurl }}/assets/img/json-view.png)
-</p>
+
 
 ### Some Considerations
 - While this plugin can work magic in building collaboration between design and development, it does have some glitches. Sometimes editing solely with the tokens does not work as expected. 
