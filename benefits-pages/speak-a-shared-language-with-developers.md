@@ -2,16 +2,8 @@
 layout: default
 title: Speak a shared language with developers
 nav: Benefits
-permalink: /speak-a-shared-language-with-developers/
-sidenav:
-    - title: Focus on the important stuff
-      url: "focus-on-the-important-stuff"
-    - title: Adopt a responsive-first mindset
-      url: "adopt-a-responsive-first-mindset"
-    - title: Speak a shared language with developers
-      url: "speak-a-shared-language-with-developers"
-    - title: Make decisions easier and more consistent
-      url: "make-decisions-easier-and-more-consistent"
+permalink: /benefits/speak-a-shared-language-with-developers/
+sidenav: benefits-side-nav
 ---
 # {{ page.title }}
 

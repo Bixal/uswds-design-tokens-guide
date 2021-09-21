@@ -2,16 +2,8 @@
 layout: default
 title: Make decisions easier and more consistent
 nav: Benefits
-permalink: /make-decisions-easier-and-more-consistent/
-sidenav:
-    - title: Focus on the important stuff
-      url: "focus-on-the-important-stuff"
-    - title: Adopt a responsive-first mindset
-      url: "adopt-a-responsive-first-mindset"
-    - title: Speak a shared language with developers
-      url: "speak-a-shared-language-with-developers"
-    - title: Make decisions easier and more consistent
-      url: "make-decisions-easier-and-more-consistent"
+permalink: /benefits/make-decisions-easier-and-more-consistent/
+sidenav: benefits-side-nav
 ---
 # {{ page.title }}
 
