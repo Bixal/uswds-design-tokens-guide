@@ -1,8 +1,8 @@
 <nav aria-label="Secondary navigation">
-    <ul class="usa-sidenav">
+    <ul class="usa-sidenav bixal-font-sans-serif">
         {% for item in site.data[include.data-collection-name] %}
         <li class="usa-sidenav__item">
-            <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+            <a href="{{ site.baseurl }}{{ item.url }}" class="{% if page.title == item.title %}usa-current{% endif %}">{{ item.title }}</a>
         </li>
         {% endfor %}
     </ul>

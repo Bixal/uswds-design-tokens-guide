@@ -86,3 +86,17 @@ code {
   background-color: var(--bixal-purple);
   transition: ease 400ms;
 }
+
+.usa-sidenav a:not(.usa-button):not(.usa-current):hover {
+  color: var(--bixal-navy);
+}
+
+.usa-sidenav .usa-current {
+  color: var(--bixal-navy);
+  font-weight: semibold;
+}
+
+.usa-sidenav .usa-current::after {
+  background-color: var(--bixal-orange);
+  border-radius: 0;
+}
