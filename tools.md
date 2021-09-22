@@ -8,5 +8,5 @@ permalink: /tools/
 
 - USWDS Component Library in Figma
 - [Figma tokens plug-in]({{ site.baseurl }}/tools/figma-tokens-plugin)
-- USWDS Boilerplate on CodePen
+- [USWDS Boilerplate on CodePen]({{ site.baseurl }}/tools/uswds-boilerplate-on-codepen/)
 - USWDS Boilerplate on GitHub
