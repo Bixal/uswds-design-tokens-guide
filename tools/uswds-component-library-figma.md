@@ -34,7 +34,7 @@ You've successfully duplicated the library! Now you can publish this file and ap
 Not sure where to start or need inspiration? 
 
 We've gone ahead and created some page templates using the USWDS components library. Check them out [here](#)!
-<!--Will need to link to USWDS page templates later-->
+<!--need to link to USWDS page templates later-->
 
 <!-- ## Pro tips:
 - You can make changes to any of the components on your duplicated library file without affecting Truss's original file.  -->
