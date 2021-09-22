@@ -15,6 +15,9 @@ The Figma Tokens plugin allows you to integrate tokens into your designs in Figm
 - Import your existing styles into the Tokens plugin.
 - Or create tokens using the built-in JSON editor. 
 
+![figma tokens plugin]({{ site.baseurl }}/assets/img/figma-tokens-plugin-cover.png)
+{: .text-center}
+
 ## Importing tokens
 
 - If you're working with an existing design system and you've already defined font styles, colors, spacing, etc. in Figma, then use the import feature to generate tokens based on those existing styles. 
