@@ -1,7 +1,9 @@
 nav:
 - title: Home
   url: https://bixal.github.io/uswds-design-tokens-guide/
-- title: GitHub Wiki
+- title: About this project
+  url: https://github.com/Bixal/uswds-design-tokens-guide
+- title: About us
   url: https://github.com/Bixal/rapid-response-team/wiki
 - title: Bixal.com
   url: https://www.bixal.com/
