@@ -3,11 +3,6 @@ layout: default
 title: Use the tools
 nav: Tools
 permalink: /tools/
-sidenav:
-    - title: Applications 1
-      url: "#application-1"
-    - title: Applications 2
-      url: "#application-2"
 ---
 # {{ page.title }}
 
