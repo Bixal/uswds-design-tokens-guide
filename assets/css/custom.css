@@ -20,8 +20,3 @@ code {
   padding: .125em .25em .125em .25em;
   border-radius: .25em;
 }
-
-img[src*='#center'] { 
-  display: block;
-  margin: auto;
-}
