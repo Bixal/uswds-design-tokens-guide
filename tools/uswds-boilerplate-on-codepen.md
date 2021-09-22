@@ -7,7 +7,7 @@ sidenav: tools-side-nav
 ---
 # {{ page.title }}
 
-CodePen is an web-based editor for experimenting with and prototyping HTML, CSS, and JavaScript. It's the easiest way to start getting familiar with USWDS code snippets and design tokens because you don't have to worry about dev environments and hosting. All you do is put some code in the releavnt boxes and it just works.
+CodePen is an web-based editor for experimenting with and prototyping HTML, CSS, and JavaScript. It's the easiest way to start getting familiar with USWDS code snippets and design tokens because you don't have to worry about dev environments and hosting. All you do is put some code in the relevant boxes and it just works.
 
 ## Getting started
 
@@ -30,7 +30,7 @@ CodePen is an web-based editor for experimenting with and prototyping HTML, CSS,
 
 ## Understanding the default code
 
-- This boilerplate makese use of CodePen's include feature, which allows you render code from one pen inside another.
+- This boilerplate makes use of CodePen's [include feature](https://blog.codepen.io/documentation/adding-external-resources/#html-can-be-an-external-resource-too-6), which allows you to use code from one pen inside another.
 - We use this for the header and footer so there is not as much code in the main file to get confused with.
 - If you don't want to use these, you can delete them or comment them out (`command-forward slash`).
 - There are two options for the header: you can delete or comment out the one you don't want to use.
