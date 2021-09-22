@@ -12,6 +12,10 @@ h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--bixal-font-serif);
+}
+
 code {
   background-color: #f0f0f0;
   padding: .125em .25em .125em .25em;
@@ -19,7 +23,7 @@ code {
 }
 
 .usa-nav .usa-accordion {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: var(--bixal-font-sans-serif);
 }
 
 .usa-header--extended .usa-logo {
@@ -28,6 +32,10 @@ code {
 
 .usa-header--extended .usa-nav__primary-item>.usa-current, .usa-header--extended .usa-nav__primary-item>.usa-nav__link:hover {
   color: var(--bixal-navy);
+}
+
+.usa-nav__primary>.usa-nav__primary-item>a {
+  font-weight: 600 !important;
 }
 
 .usa-header--extended .usa-nav__primary-item>.usa-current::after, .usa-header--extended .usa-nav__primary-item>.usa-nav__link:hover::after {
@@ -46,6 +54,35 @@ code {
   background-color: white;
 }
 
+.usa-header--extended .usa-nav, .usa-navbar {
+  border-color: var(--bixal-navy);
+}
+
 .usa-logo a {
   color: var(--bixal-orange);
+}
+
+.usa-menu-btn {
+  background-color: var(--bixal-purple);
+}
+
+.usa-process-list__item::before {
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-variant-numeric: normal;
+}
+
+.usa-process-list__item, .usa-prose .usa-process-list__item {
+  border-color: var(--bixal-light-blue);
+}
+
+.usa-button--outline {
+  color: var(--bixal-purple) !important;
+  box-shadow: inset 0 0 0 2px var(--bixal-purple) !important;
+}
+
+.usa-button--outline.usa-button--hover, .usa-button--outline:hover {
+  color: white !important;
+  box-shadow: inset 0 0 0 2px var(--bixal-purple);
+  background-color: var(--bixal-purple);
+  transition: ease 400ms;
 }
