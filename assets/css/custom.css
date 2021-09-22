@@ -12,6 +12,10 @@ h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--bixal-font-serif);
+}
+
 code {
   background-color: #f0f0f0;
   padding: .125em .25em .125em .25em;
@@ -19,7 +23,7 @@ code {
 }
 
 .usa-nav .usa-accordion {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: var(--bixal-font-sans-serif);
 }
 
 .usa-header--extended .usa-logo {
