@@ -12,5 +12,5 @@ sidenav: benefits-side-nav
 - By working from that collection, there is less opportunity to make accidental mistakes of inconsistency.
 - While designing with tokens makes things easier, you always have the option to diverage when necessary to achieve a particular effect.
 
-## Recommended Resources:
+## Recommended Resources
 - Learn more about how using design tokens will help make design decisions in this article, [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421).
