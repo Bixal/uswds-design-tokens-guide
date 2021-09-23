@@ -13,4 +13,4 @@ sidenav: benefits-side-nav
 - Using the language of design tokens helps designers better communicate their intent and raise their expectations for the level of implementation quality.
 
 ## Recommended Resources
-Watch this video, [What the #&%$ are Design Tokens?!](https://www.youtube.com/watch?v=wtTstdiBuUk), to further understand how tokens can help you communicate and collaborate with developers. 
+- Watch this video, [What the #&%$ are Design Tokens?!](https://www.youtube.com/watch?v=wtTstdiBuUk), to further understand how tokens can help you communicate and collaborate with developers. 

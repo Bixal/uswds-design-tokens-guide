@@ -18,4 +18,5 @@ From [USWDS](https://designsystem.digital.gov/design-tokens/):
 - The value of the pair is set to a default, but it can be changed if needed.
 
 ## Recommended Resources:
-- Check out the origin of design tokens in this article from Salesforce, [Living Design System: An approach for delivering a consistent design cross-platform](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7). Salesforce began using design tokens to address the challenges of scaling products and making them easier to change/alter for continuous iterations. 
+- Check out the origin of design tokens in this article from Salesforce, [Living Design System: An approach for delivering a consistent design cross-platform](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7). Design tokens were first used by the design system team at Salesforce. They began using design tokens to address the challenges of scaling products and making them easier to change/alter for continuous iterations. 
+- For a more in-depth look at tokens and some cool infographics, read Invision's [Guide to Design Tokens](https://www.invisionapp.com/inside-design/design-tokens/). 
