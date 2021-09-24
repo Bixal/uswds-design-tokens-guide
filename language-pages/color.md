@@ -14,5 +14,5 @@ sidenav: language-side-nav
   - Use the [USWDS Color Tool](https://civicactions.github.io/uswds-color-tool/) from Civic Actions to find system token colors similar to existing colors on a project that you may want to migrate.
 
 
-![import button on tokens plugin]({{ site.baseurl }}/assets/img/color-infographic.png)
+![Infographic showing a pyramid that represents the specificity of a color token from a hex code to a component-specific component.]({{ site.baseurl }}/assets/img/color-infographic.png)
 {: .text-center}
