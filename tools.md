@@ -6,7 +6,7 @@ permalink: /tools/
 ---
 # {{ page.title }}
 
-- USWDS Component Library in Figma
+- [USWDS Component Library in Figma]({{ site.baseurl }}/tools/uswds-figma-library)
 - [Figma tokens plug-in]({{ site.baseurl }}/tools/figma-tokens-plugin)
 - [USWDS Boilerplate on CodePen]({{ site.baseurl }}/tools/uswds-boilerplate-on-codepen/)
 - USWDS Boilerplate on GitHub
