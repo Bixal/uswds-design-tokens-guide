@@ -16,3 +16,7 @@ From [USWDS](https://designsystem.digital.gov/design-tokens/):
 - The names are the words we use in our design that make it easier to understand and apply those _discrete options_.
 - For example, instead of describing our type using pixel sizes, we use t-shirt sizes, like `sm`, `md`, and `lg`. When describing colors, we use palettes based on their function, like `primary-dark` or `warning-light.`
 - The value of the pair is set to a default, but it can be changed if needed.
+
+## Recommended Resources
+- Check out the origin of design tokens in this article from Salesforce, [Living Design System: An approach for delivering a consistent design cross-platform](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7). Salesforce began using design tokens to address the challenges of scaling products and making them easier to change/alter for continuous iterations. 
+- For a more in-depth look at tokens and some cool infographics, read Invision's [Guide to Design Tokens](https://www.invisionapp.com/inside-design/design-tokens/). 

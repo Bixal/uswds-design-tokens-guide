@@ -15,3 +15,6 @@ sidenav: language-side-nav
 - For typography, there are 21 preset systems tokens, but a theme set of 9 options with sizes ranging from `3xs` to `3xl`.
 - The default values of the theme tokens reference the system token names.
 - The theme and system tokens concept primarily applies to color and type size.
+
+## Recommended Resources
+- Watch a recording of a [USWDS Monthly Call](https://www.youtube.com/watch?v=l1u3umf5YXo&list=PLd9b-GuOJ3nGqDYCNsCMHCQ9MdD5jfB01&index=32) on Design Tokens.
