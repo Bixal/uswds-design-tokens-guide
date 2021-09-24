@@ -7,7 +7,7 @@ sidenav: tools-side-nav
 ---
 # {{ page.title }}
 
-CodePen is an web-based editor for experimenting with and prototyping HTML, CSS, and JavaScript. It's the easiest way to start getting familiar with USWDS code snippets and design tokens because you don't have to worry about dev environments and hosting. All you do is put some code in the relevant boxes and it just works.
+CodePen is a web-based editor for experimenting with and prototyping HTML, CSS, and JavaScript. It's the easiest way to start getting familiar with USWDS code snippets and design tokens because you don't have to worry about dev environments and hosting. All you do is put some code in the relevant boxes and it just works.
 
 ## Getting started
 
