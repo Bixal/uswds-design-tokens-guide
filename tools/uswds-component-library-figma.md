@@ -42,12 +42,12 @@ We've gone ahead and created some [page templates](https://bixal.github.io/uswds
 <!-- ## Pro tips
 - You can make changes to any of the components on your duplicated library file without affecting Truss's original file.  -->
 
-## Things to keep in mind:
+## Things to keep in mind
 - Whichever version of the library you duplicated from Truss will **not** receive any new updates automatically.
 - The only way to get the newest version would be to duplicate the updated library from the Figma Community page.
 - If you have files or projects already linked to an older version, you may need to relink components if you want to move to an updated library version.
 
-### Our suggestions:
+### Our suggestions
 - **Keep your USWDS component library in its own file.** If your team or projects have multiple files referencing this library, it's best to keep it separate.
 - **Stick to a single version.** This will help you avoid continuous relinking of components.
 
