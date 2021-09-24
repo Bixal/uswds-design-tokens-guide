@@ -62,6 +62,6 @@ sidenav: language-side-nav
 - USWDS includes tokens for weight, letterspacing, and measure (line length) as well.
 - Not all weights are enabled by default. If you want to use `semibold`, for example, the developers will need to enable this setting.
 - There aren't many letterspacing options, but they can be handy for keeping things consistent.
-- Measure is a very useful and apparently underused feature. Instead of allowing smaller to run the length of a wide screen, you can use measure tokens to set the maximum width of individual elements or groups of text to keep them at a comfortable line length for reading.
+- Measure is a very useful and apparently underused feature. Instead of allowing smaller text to run the length of a wide screen, you can use measure tokens to set the maximum width of individual elements or groups of text to keep them at a comfortable line length for reading.
     - They can also be adapted to different screen sizes using the prefixes. For example, you could start to constrain the text at the tablet width with `tablet:measure-3` and go wider at desktop with `desktop:measure-5`.
     - Consider the font size and line height along with line length for a good reading experience.
