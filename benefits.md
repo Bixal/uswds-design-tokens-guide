@@ -11,7 +11,10 @@ You’ve heard of design tokens. You know they’re good for you. But is it real
 
 Check out these tips for making the case:
 
-- **[Focus on the important stuff]({{ site.baseurl }}/benefits/focus-on-the-important-stuff/)**
-- **[Adopt a responsive-first mindset]({{ site.baseurl }}/benefits/adopt-a-responsive-first-mindset/)**
-- **[Speak a shared language with developers]({{ site.baseurl }}/benefits/speak-a-shared-language-with-developers/)**
-- **[Make decisions easier and more consistent]({{ site.baseurl }}/benefits/make-decisions-easier-and-more-consistent/)**
+<ul>
+{% for item in site.data.benefits-side-nav %}
+<li>
+<a href="{{ site.baseurl }}{{ item.url }}" class="text-bold">{{ item.title }}</a>
+</li>
+{% endfor %}
+</ul>
