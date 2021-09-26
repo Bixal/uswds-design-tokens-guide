@@ -37,10 +37,12 @@ Not sure where to start or need inspiration?
 
 We've gone ahead and created some [page templates](https://bixal.github.io/uswds-page-templates/) using the USWDS components library. You can view how they respond in the web or view their Figma files to dive a little deeper.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQVPduB8h6DIENYULFVCism%2FBixal-USWDS-Page-Templates%3Fnode-id%3D1453%253A2736" allowfullscreen></iframe>
+<div class="iframe-container">
+	<iframe class="responsive-iframe" style="border: 1px solid rgba(0, 0, 0, 0.1);" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQVPduB8h6DIENYULFVCism%2FBixal-USWDS-Page-Templates%3Fnode-id%3D1453%253A2736" allowfullscreen></iframe>
+</div>
 
-<!-- ## Pro tips
-- You can make changes to any of the components on your duplicated library file without affecting Truss's original file.  -->
+> ## Pro tip
+You can make changes to any of the components on your duplicated library file without affecting Truss's original file. The changes you make will only affect the files you choose to apply them to. For more information, check out Figma's article on how to [review and accept library updates](https://help.figma.com/hc/en-us/articles/360039234193-Review-and-accept-updates-from-libraries).
 
 ## Things to keep in mind
 - Whichever version of the library you duplicated from Truss will **not** receive any new updates automatically.
@@ -54,4 +56,3 @@ We've gone ahead and created some [page templates](https://bixal.github.io/uswds
 ## Resources
 - [Duplicate Community files](https://help.figma.com/hc/en-us/articles/360038510873-Duplicate-Community-files)
 - [Publish styles and components](https://help.figma.com/hc/en-us/articles/360025508373-Publish-styles-and-components)
-- [Review and accept library updates](https://help.figma.com/hc/en-us/articles/360039234193-Review-and-accept-updates-from-libraries)
