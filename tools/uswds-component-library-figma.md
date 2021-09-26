@@ -2,7 +2,7 @@
 layout: default
 title: USWDS Figma Library
 nav: Tools
-permalink: /tools/uswds-figma-library
+permalink: /tools/uswds-figma-library/
 sidenav: tools-side-nav
 ---
 
