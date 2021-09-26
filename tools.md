@@ -6,7 +6,13 @@ permalink: /tools/
 ---
 # {{ page.title }}
 
-- USWDS Component Library in Figma
-- [Figma tokens plug-in]({{ site.baseurl }}/tools/figma-tokens-plugin)
-- USWDS Boilerplate on CodePen
-- USWDS Boilerplate on GitHub
+Now that you know, it’s time to level up your toolset with plug-ins and templates to make it real.
+{: .font-sans-lg .bixal-font-sans-serif .measure-3}
+
+<ul>
+{% for item in site.data.tools-side-nav %}
+<li>
+<a href="{{ site.baseurl }}{{ item.url }}" class="text-bold">{{ item.title }}</a>
+</li>
+{% endfor %}
+</ul>
