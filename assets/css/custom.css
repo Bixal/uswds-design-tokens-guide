@@ -22,6 +22,17 @@ code {
   border-radius: .25em;
 }
 
+blockquote {
+  border-left: 4px solid var(--bixal-orange);
+  margin-left: 2em;
+  padding: 1.5em;
+  width: 100%;
+}
+
+blockquote p {
+  font-style: italic;
+}
+
 .usa-nav .usa-accordion {
   font-family: var(--bixal-font-sans-serif);
 }
