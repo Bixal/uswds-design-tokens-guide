@@ -7,6 +7,10 @@ p, li, .usa-intro {
   line-height: 1.5;
 }
 
+li {
+  margin-bottom: .5em;
+}
+
 h2, h3, h4, h5, h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
