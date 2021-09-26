@@ -27,14 +27,13 @@ sidenav: language-side-nav
 ## Specifying font sizes
 
 - USWDS includes [theme tokens](https://designsystem.digital.gov/design-tokens/typesetting/font-size/#theme-tokens) for font sizes that use semantic, "t-shirt size" names: `sm`, `md`, `lg`, etc.
-- There are 9 sizes available in the default token set, ranging from 3xs to 3xl.
-- Unless you need more than 9 unique sizes in your project, consider specifying your sizes using these theme tokens. You can redefine what those default sizes using the [system token](https://designsystem.digital.gov/design-tokens/typesetting/font-size/#system-tokens) references (or defining your own custom sizes if you prefer).
+- There are 9 sizes available in the default theme token set, ranging from 3xs to 3xl.
+- Unless you need more than 9 unique sizes in your project, consider specifying your sizes using these theme tokens. You can redefine the default sizes using the [system token](https://designsystem.digital.gov/design-tokens/typesetting/font-size/#system-tokens) references (or defining your own custom sizes if you prefer).
 
 ## Specifying line height
 
 - USWDS includes 6 [line height tokens](https://designsystem.digital.gov/design-tokens/typesetting/line-height/).
 - Consider limiting the number of line heights you use and redefine these tokens as needed. That way `line-height-3` means the same thing throughout your design and the vertical rhythm of your content will feel more cohesive.
-- Line height may be affected by component-specific styles, so if you're not seeing the expected results, it may be because of some embedded CSS rules that are taking precedence over what you intended for a particular element.
 
 ## Using the Prose component
 
