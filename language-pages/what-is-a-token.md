@@ -8,9 +8,8 @@ sidenav: language-side-nav
 # {{ page.title }}
 {: .bixal-font-serif}
 
-From [USWDS](https://designsystem.digital.gov/design-tokens/):
-
-> _Design tokens are a limited set of discrete options, just like a scale of musical notes is drawn from the spectrum of all possible frequencies. Or like the presets on a car radio — not every option, just a specific selection._
+> From [USWDS](https://designsystem.digital.gov/design-tokens/):  
+_Design tokens are a limited set of discrete options, just like a scale of musical notes is drawn from the spectrum of all possible frequencies. Or like the presets on a car radio — not every option, just a specific selection._
 
 - A token is a set of name and value pairs.
 - The names are the words we use in our design that make it easier to understand and apply those _discrete options_.
