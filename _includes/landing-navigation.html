@@ -1,0 +1,10 @@
+<ul class="usa-card-group flex-row">
+    {% for item in site.data[include.data-collection-name] %}
+    <li class="mobile-lg:grid-col-6 desktop:grid-col-3 usa-card">
+        <div class="usa-card__container">
+            <a href="{{ site.baseurl }}{{ item.url }}"
+                class="bixal-font-sans-serif display-block text-bold height-full width-full radius-md hover:bg-base-lightest">{{ item.title }}</a>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

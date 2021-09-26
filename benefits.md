@@ -3,6 +3,7 @@ layout: default
 title: Understand the benefits
 nav: Benefits
 permalink: /benefits/
+landingnav: benefits-side-nav
 ---
 # {{ page.title }}
 
@@ -11,10 +12,4 @@ You’ve heard of design tokens. You know they’re good for you. But is it real
 
 Check out these tips for making the case:
 
-<ul>
-{% for item in site.data.benefits-side-nav %}
-<li>
-<a href="{{ site.baseurl }}{{ item.url }}" class="text-bold">{{ item.title }}</a>
-</li>
-{% endfor %}
-</ul>
+{% include landing-navigation.html data-collection-name=page.landingnav %}

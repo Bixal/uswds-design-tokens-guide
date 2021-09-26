@@ -11,6 +11,16 @@ li {
   margin-bottom: .5em;
 }
 
+a {
+  color: var(--bixal-purple);
+  text-decoration: none;
+}
+
+a:hover, a:focus, a:active {
+  color: var(--bixal-purple);
+  text-decoration: underline;
+}
+
 h2, h3, h4, h5, h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
