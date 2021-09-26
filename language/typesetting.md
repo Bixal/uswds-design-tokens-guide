@@ -17,6 +17,9 @@ sidenav: language-side-nav
 - The reason it works this way is so different typefaces take up roughly the same amount of space within the page.
 - In order to have more control over how your type is displayed in the browser, you need to do more than pick a typeface and a pixel size. You should define each of your type elements (headings, paragraphs, lists, captions, etc.) using these 3 attributes.
 
+![Infographic depicting the three tokens that make up a typography token]({{ site.baseurl }}/assets/img/type-infographic.png)
+{: .text-center}
+
 ## Specifying a font family
 
 - USWDS has a set of [default font stacks](https://designsystem.digital.gov/design-tokens/typesetting/font-family/) that are named using a single token. For example, the token `merriweather` will result in this font stack: `"Merriweather Web", "Georgia", "Cambria", "Times New Roman", "Times", serif`.
