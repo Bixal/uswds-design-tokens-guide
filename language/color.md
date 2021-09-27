@@ -22,7 +22,7 @@ sidenav: language-side-nav
 > ## Pro tip
 Use the [USWDS Color Tool](https://civicactions.github.io/uswds-color-tool/) from Civic Actions to find system token colors similar to existing colors on a project that you may want to migrate.
 
-[Use this Figma template to define your theme token palette](#){: .usa-button .usa-button--outline .margin-y-2}
+[Use this Figma template to define your theme token palette](https://www.figma.com/community/file/1024394345443465950){: .usa-button .usa-button--outline .margin-y-2}
 
 ## Keeping color accessible
 
