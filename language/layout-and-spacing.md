@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layout and spacing
+title: Layout & spacing
 nav: Language
 permalink: /language/layout-and-spacing/
 sidenav: language-side-nav

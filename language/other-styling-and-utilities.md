@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Other styling and utilities
+title: Other styling & utilities
 nav: Language
 permalink: /language/other-styling-and-utilities/
 sidenav: language-side-nav
