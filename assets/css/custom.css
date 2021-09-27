@@ -38,7 +38,7 @@ code {
 
 blockquote {
   border-left: 4px solid var(--bixal-orange);
-  margin-left: 2em;
+  margin-left: 1.5em;
   padding: 1.5em;
   width: 100%;
 }
