@@ -13,13 +13,17 @@ sidenav: tools-side-nav
 
 <a href="https://www.figma.com/community/file/1024394345443465950" class="usa-button usa-button--outline">Duplicate this file</a>
 
-## How to use the template
-This template can be used as a starting point for adopting the use of color tokens in you design systems in Figma. 
+## Getting Started
+This template can be used as a starting point for adopting the use of color tokens in your design systems in Figma. 
 
 In this file you’ll find the [theme color tokens](https://designsystem.digital.gov/design-tokens/color/theme-tokens/) and [state color tokens](https://designsystem.digital.gov/design-tokens/color/state-tokens/) as defined by USWDS. 
 
 The tokens are customizable for your projects, so use this file as a base to help you organize and name your tokens to align with USWDS guidance. 
 
-Each color token is saved as a color style. Each color style is named by the theme or state color token associated with it and includes a description that names the [system token](https://designsystem.digital.gov/design-tokens/color/system-tokens/) and the [settings[(https://designsystem.digital.gov/documentation/settings/)] variable that it is referencing. 
+Each color token is saved as a color style. Each color style is named by the theme or state color token associated with it and includes a description that names the [system token](https://designsystem.digital.gov/design-tokens/color/system-tokens/) and the [settings](https://designsystem.digital.gov/documentation/settings/) variable that it is referencing. 
 
-Deselect all layers by clicking outside of a frame and you will see all the color styles listed in the right side panel. 
+## How to use this template
+1. Duplicate [color token template file](https://www.figma.com/community/file/1024394345443465950). Rename the file and move it from your drafts to your team folder.
+2. Follow the how-to steps in the file to customize the color tokens.
+
+
