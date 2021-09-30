@@ -7,7 +7,7 @@ sidenav: tools-side-nav
 ---
 # {{ page.title }}
 
-![Preview of the color token figma file.]({{ site.baseurl }}/assets/img/figma-template.png)
+[![Preview of the color token figma file.]({{ site.baseurl }}/assets/img/figma-template.png)](https://www.figma.com/community/file/1024394345443465950)
 {: .text-center}
 
 ## Getting Started
