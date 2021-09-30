@@ -11,7 +11,7 @@ sidenav: tools-side-nav
 <iframe class="responsive-iframe" style="border: 1px solid rgba(0, 0, 0, 0.1);" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FSm2zi00hmcM5VE4ZWeTulB%2FUSWDS-Color-Token-Template%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 </div>
 
-<a href="https://www.figma.com/community/file/1024394345443465950" class="usa-button usa-button--outline">Duplicate this file</a>
+[Duplicate this file](https://www.figma.com/community/file/1024394345443465950){: .usa-button .usa-button--outline}
 
 ## Getting Started
 This template can be used as a starting point for adopting the use of color tokens in your design systems in Figma. 
