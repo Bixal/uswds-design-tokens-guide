@@ -7,6 +7,8 @@ sidenav: tools-side-nav
 ---
 # {{ page.title }}
 
+![Preview of the color token figma file.]({{ site.baseurl }}/assets/img/figma-template.png)
+{: .text-center}
 
 ## Getting Started
 This template can be used as a starting point for adopting the use of color tokens in your design systems in Figma. 
