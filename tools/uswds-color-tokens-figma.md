@@ -10,7 +10,6 @@ sidenav: tools-side-nav
 [![Preview of the color token figma file.]({{ site.baseurl }}/assets/img/figma-template.png)](https://www.figma.com/community/file/1024394345443465950)
 {: .text-center}
 
-## Getting Started
 This template can be used as a starting point for adopting the use of color tokens in your design systems in Figma. 
 
 - In this file you’ll find the [theme color tokens](https://designsystem.digital.gov/design-tokens/color/theme-tokens/) and [state color tokens](https://designsystem.digital.gov/design-tokens/color/state-tokens/) as defined by USWDS. 
