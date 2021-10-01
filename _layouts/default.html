@@ -13,6 +13,21 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bixal/brand-css@v2.1/style.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bixal/brand-css@v2.1/utilities-for-uswds.css" />
   <link rel="stylesheet" href="{{ site.baseurl}}/assets/css/custom.css" />
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/png" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{{ site.baseurl }}/assets/img/social-card.jpg">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="twitter:description" content="{% if page.description %}{{ page.description | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="twitter:image" content="{{ site.baseurl }}/assets/img/social-card.jpg">
 </head>
 
 <body>
